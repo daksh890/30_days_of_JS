@@ -1,0 +1,30 @@
+body{
+    background:rgb(113, 229, 229);
+    font-family:Arial, Helvetica, sans-serif;
+    height:100%;
+}
+.container{
+    width:800px;
+    margin: 30px auto;
+    color:black;
+    text-align:center;
+}
+h1, h2, h3, p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:150;
+    font-size:2.5rem;
+    text-transform:capitalize;
+
+}
+#seconds,
+#tens{
+    color:black;
+}
+button{
+    width:150px;
+    height:50px;
+    font-size:1.5rem;
+    color:black;
+    border-radius: 5px;
+    margin-right: 10px;
+}
