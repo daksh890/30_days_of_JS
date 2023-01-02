@@ -15,7 +15,7 @@ multiplyByTwo(5);
 let multiplyByThree = bubliply(3);
 multiplyByThree(5);
 
-// SUM(2)(3)(5)(7).....(n)
+// SUM(2)(3)(5)(7).....(n)()
 let sum = function (a) {
   return function (b) {
     if (b) {
